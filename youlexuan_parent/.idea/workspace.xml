@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb15901-e268-4d0c-badd-c0d440dadb96" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_dao/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan-common/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_common/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_sellergoods_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_sellergoods_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_sellergoods_controller/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_shop_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_content_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_content_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_portal_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_solr_util/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_sarch_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_search_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_search_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_search_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_page_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_page_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_page_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_sms_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_user_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_user_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_user_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_mail.service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_mail_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_cart_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_caet_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_cart_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_cart_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_order_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_order_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_pay_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_pay_interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_seckill_intferface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_seckill_service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_seckill_web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan_task_service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="youlexuan_parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="114" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_task_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/java/com/offcn/task/SeckillGoodsTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_search_service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youlexuan_search_service/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/resources/spring/applicationContext-task.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$scope.typeTemplate</find>
+      <find>ids</find>
+      <find>dele</find>
+      <find>findOne</find>
+      <find>轮播</find>
+      <find>商品分类</find>
+      <find>上一页</find>
+      <find>价格</find>
+      <find>品牌</find>
+      <find>搜索</find>
+      <find>findPage</find>
+      <find>brandList</find>
+      <find>dd</find>
+      <find>加入购物车</find>
+      <find>isSelected</find>
+      <find>specName</find>
+      <find>sku</find>
+      <find>searchSku</find>
+      <find>$scope.specItems</find>
+      <find>log4j</find>
+      <find>servlet</find>
+      <find>192.168.188.</find>
+      <find>class=&quot;name&quot;</find>
+      <find>youlexuan</find>
+      <find>神州数码</find>
+      <find>购物车</find>
+      <find>System</find>
+      <find>提交</find>
+      <find>dao</find>
+      <find>springSecurityFilterChain</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/AddressController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_page_web/src/main/webapp/149187842867982.html" />
+        <option value="$PROJECT_DIR$/youlexuan_page_web/src/main/webapp/js/controller/itemController.js" />
+        <option value="$PROJECT_DIR$/youlexuan_order_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_order_service/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_order_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/js/service/cartService.js" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/getOrderInfo.html" />
+        <option value="$PROJECT_DIR$/youlexuan_common/src/main/java/com/offcn/utli/IdWorker.java" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/js/controller/cartController.js" />
+        <option value="$PROJECT_DIR$/youlexuan_pay_service/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_pay_service/src/main/resources/properties/alipay.properties" />
+        <option value="$PROJECT_DIR$/youlexuan_pay_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/paysuccess.html" />
+        <option value="$PROJECT_DIR$/youlexuan_pay_interface/src/main/java/com/offcn/pay/service/AliPayService.java" />
+        <option value="$PROJECT_DIR$/youlexuan_order_interface/src/main/java/com/offcn/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/pay.html" />
+        <option value="$PROJECT_DIR$/youlexuan_order_service/src/main/java/com/offcn/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/js/service/payService.js" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/js/controller/payController.js" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_intferface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_service/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/service/seckillService.js" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/SeckillGoodsController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_intferface/src/main/java/com/offcn/seckill/service/SeckillGoodsService.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/service/seckillGoodsService.js" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/seckill-item.html" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/controller/payController.js" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_intferface/src/main/java/com/offcn/seckill/service/SeckillOrderService.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_service/src/main/java/com/offcn/seckill/service/impl/SeckillOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/SeckillOrderController.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/controller/seckillGoodsController.js" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_service/src/main/java/com/offcn/seckill/service/impl/SeckillGoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/seckill-index.html" />
+        <option value="$PROJECT_DIR$/youlexuan_pay_service/src/main/java/com/offcn/pay/service/impl/AliPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuan_task_service/src/main/resources/spring/applicationContext-task.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_task_service/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_task_service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_task_service/src/main/java/com/offcn/task/SeckillGoodsTask.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/JAVA/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\JAVA\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan_seckill_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan_seckill_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_search_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_search_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_search_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_search_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_search_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_intferface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_intferface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_intferface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_intferface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_intferface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offcn" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_seckill_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuan_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan_task_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youlexuan_task_service/src/main/webapp/WEB-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_task_service\src\main\webapp\WEB-INF" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_seckill_web\src\main\webapp\plugins" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_seckill_web\src\main\webapp" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_seckill_web\src\main\webapp\js\controller" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_seckill_web\src\main\webapp\js\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.offcn.user.service" />
+      <recent name="com.offcn.cart.controller" />
+      <recent name="com.offcn.order.service.impl" />
+      <recent name="com.offcn.order.service" />
+      <recent name="com.offcn.sellergoods.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_seckill_web\src\main\resources" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_user_service\src\main\resources\spring" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_user_web\src\main\resources\spring" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_user_web\src\main\webapp\js" />
+      <recent name="E:\JavaProject\youlexuan_parent\youlexuan_page_service\src\main\resources\properties" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.seckill_web">
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offcn.AppStart" />
+      <module name="youlexuan_solr_util" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cart_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_cart_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="cart_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_cart_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="content_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_content_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mail_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_mail_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="manager_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_manager_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="order_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_order_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="page_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_page_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="page_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_page_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="pay_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_pay_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="portal_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_portal_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_service " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_search_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_search_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="seckill_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_seckill_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="seckill_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_seckill_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="sellergoods_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_sellergoods_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shop_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_shop_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="sms_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_sms_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="user_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_user_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="user_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/youlexuan_user_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppStart" />
+      <item itemvalue="Maven.seckill_web" />
+      <item itemvalue="Maven.cart_web" />
+      <item itemvalue="Maven.user_web" />
+      <item itemvalue="Maven.search_web" />
+      <item itemvalue="Maven.portal_web" />
+      <item itemvalue="Maven.page_web" />
+      <item itemvalue="Maven.shop_web" />
+      <item itemvalue="Maven.manager_web" />
+      <item itemvalue="Maven.search_service " />
+      <item itemvalue="Maven.content_service" />
+      <item itemvalue="Maven.sellergoods_service" />
+      <item itemvalue="Maven.page_service" />
+      <item itemvalue="Maven.sms_service" />
+      <item itemvalue="Maven.user_service" />
+      <item itemvalue="Maven.mail_service" />
+      <item itemvalue="Maven.cart_service" />
+      <item itemvalue="Maven.order_service" />
+      <item itemvalue="Maven.pay_service" />
+      <item itemvalue="Maven.seckill_service" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Kane\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb15901-e268-4d0c-badd-c0d440dadb96" name="Default" comment="" />
+      <created>1562329600543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562329600543</updated>
+      <workItem from="1562329601707" duration="317000" />
+      <workItem from="1562329943023" duration="44000" />
+      <workItem from="1562330005262" duration="5222000" />
+      <workItem from="1562376856837" duration="3204000" />
+      <workItem from="1562380276932" duration="389000" />
+      <workItem from="1562380963722" duration="7978000" />
+      <workItem from="1562546958266" duration="2852000" />
+      <workItem from="1562555651319" duration="20779000" />
+      <workItem from="1562633593306" duration="1802000" />
+      <workItem from="1562637204940" duration="8000" />
+      <workItem from="1562637561371" duration="340000" />
+      <workItem from="1562637936611" duration="96000" />
+      <workItem from="1562638054456" duration="2749000" />
+      <workItem from="1562641256503" duration="23277000" />
+      <workItem from="1562719774293" duration="3801000" />
+      <workItem from="1562725625731" duration="17680000" />
+      <workItem from="1562760358609" duration="6105000" />
+      <workItem from="1562767082173" duration="120000" />
+      <workItem from="1562806322246" duration="8913000" />
+      <workItem from="1562835859745" duration="13326000" />
+      <workItem from="1562893120173" duration="19228000" />
+      <workItem from="1562983003290" duration="12540000" />
+      <workItem from="1563151149951" duration="2863000" />
+      <workItem from="1563155123490" duration="22414000" />
+      <workItem from="1563189227392" duration="8681000" />
+      <workItem from="1563238405848" duration="5278000" />
+      <workItem from="1563245159825" duration="14464000" />
+      <workItem from="1563324275217" duration="16173000" />
+      <workItem from="1563411393047" duration="25460000" />
+      <workItem from="1563497893298" duration="7499000" />
+      <workItem from="1563506768191" duration="21612000" />
+      <workItem from="1563584228572" duration="22926000" />
+      <workItem from="1563756725115" duration="19423000" />
+      <workItem from="1563844433229" duration="10842000" />
+      <workItem from="1563865049876" duration="14131000" />
+      <workItem from="1563929686174" duration="6295000" />
+      <workItem from="1564016021780" duration="5994000" />
+      <workItem from="1564023289909" duration="15850000" />
+      <workItem from="1564103383585" duration="18859000" />
+      <workItem from="1564139819225" duration="1438000" />
+      <workItem from="1564142032476" duration="2017000" />
+      <workItem from="1564193875478" duration="3301000" />
+      <workItem from="1564217450473" duration="12412000" />
+      <workItem from="1564361613618" duration="30900000" />
+      <workItem from="1564448154626" duration="11246000" />
+      <workItem from="1564489954101" duration="6000" />
+      <workItem from="1565007249769" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="451159000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49452955" visible="true" weight="0.23307292" />
+      <window_info id="Structure" order="1" sideWeight="0.501938" side_tool="true" weight="0.15820312" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5006748" side_tool="true" weight="0.2233073" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50547045" side_tool="true" weight="0.15755208" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.32899868" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32769832" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32509753" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49934897" weight="0.30169052" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.08842653" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32928476" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.2693824" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32552084" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3294271" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.35546875" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youlexuan_manager_web/src/main/java/com/offcn/sellergoods/controller/ContentController.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youlexuan_portal_web/src/main/java/com/offcn/portal/controller/ContentController.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youlexuan_user_web/src/main/java/com/offcn/user/controller/UserController.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/CartController.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/CartController.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/base.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_cart_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="159" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_intferface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_content_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="119" column="12" selection-start-line="13" selection-start-column="4" selection-end-line="119" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_order_service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/paysuccess.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-994">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_cart_web/src/main/java/com/offcn/cart/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_intferface/src/main/java/com/offcn/seckill/service/SeckillGoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="65" column="52" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_pay_interface/src/main/java/com/offcn/pay/service/AliPayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_common/src/main/java/com/offcn/utli/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/plugins/qrious.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/service/payService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/controller/payController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_cart_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/src/main/java/com/offcn/seckill/service/impl/SeckillOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="135" column="26" selection-start-line="135" selection-start-column="26" selection-end-line="135" selection-end-column="26" />
+          <folding>
+            <element signature="e#3857#4808#0" expanded="true" />
+            <element signature="e#4807#4808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/Demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/seckill-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="176" column="72" lean-forward="true" selection-start-line="176" selection-start-column="72" selection-end-line="176" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#3;n#li#0;n#ul#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/src/main/java/com/offcn/seckill/service/impl/SeckillGoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="995">
+          <caret line="111" column="52" selection-start-line="111" selection-start-column="52" selection-end-line="111" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/seckill-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="248" column="67" selection-start-line="248" selection-start-column="67" selection-end-line="248" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/controller/seckillGoodsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/js/service/seckillGoodsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/user/service/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#708#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_shop_web/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="55" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/SeckillGoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="121" column="48" selection-start-line="121" selection-start-column="48" selection-end-line="121" selection-end-column="48" />
+          <folding>
+            <element signature="e#2562#2563#0" expanded="true" />
+            <element signature="e#2606#2607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/SeckillOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/webapp/pay.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_web/src/main/java/com/offcn/seckill/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="39" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_pay_service/src/main/java/com/offcn/pay/service/impl/AliPayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="108" column="40" lean-forward="true" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_intferface/src/main/java/com/offcn/seckill/service/SeckillOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_shop_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_user_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.2.RELEASE/spring-data-redis-1.7.2.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1489">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_seckill_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="114" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_task_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/resources/spring/applicationContext-task.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_task_service/src/main/java/com/offcn/task/SeckillGoodsTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_search_service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuan_search_service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>youlexuan_sellergoods_service:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>youlexuan_seckill_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
